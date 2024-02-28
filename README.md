@@ -1,7 +1,7 @@
 <h1 align="center"> 🧑‍💻 </h1>
 <br>
 <p align="center">Olá, me chamo <b>Rafael Martins</b>! ✨</p>
-<p align="center">Atualmente procurando oportunidades na área de tecnologia, e me apofundando em desenvolvimento frontend/devops</p>
+<p align="center">Atualmente procurando oportunidades na área de tecnologia, e me apofundando em desenvolvimento frontend/backend/devops</p>
 <br>
 <br>
 <img src="https://i.imgur.com/JLRMKTS.gif" align="right" width="400px" />
