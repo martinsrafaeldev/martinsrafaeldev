@@ -4,7 +4,7 @@
 <p align="center">Atualmente procurando oportunidades na área de tecnologia, e me apofundando em desenvolvimento frontend/backend/devops</p>
 <br>
 <br>
-<img src="https://i.imgur.com/zzqNvAt.gif" align="right" width="250px"/>  
+<img src="https://i.imgur.com/zzqNvAt.gif" align="right" width="200px"/>  
 
 
 - 💻 Recentemente aprendendo tecnologias back-end para futuro desenvolvedor full-stack
