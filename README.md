@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F747&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Rafael+Martins" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F747&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Rafael+Martins+</>" alt="Typing SVG" /></a>
 <p> Atualmente procurando oportunidades na área de tecnologia, e me apofundando em desenvolvimento frontend/backend/devops</p>
 <br>
 <br>
