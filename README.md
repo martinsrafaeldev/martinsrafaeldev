@@ -1,7 +1,6 @@
 <h1 align="center"> 🧑‍💻 </h1>
 <br>
-<p align="center">Olá, me chamo <b>Rafael Martins</b>! ✨</p>
-<p align="center">Atualmente procurando oportunidades na área de tecnologia, e me apofundando em desenvolvimento frontend/backend/devops</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Rafael+Martins!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)<p align="center">Atualmente procurando oportunidades na área de tecnologia, e me apofundando em desenvolvimento frontend/backend/devops</p>
 <br>
 <br>
 <img src="https://i.imgur.com/zzqNvAt.gif" align="right" width="200px"/>  
