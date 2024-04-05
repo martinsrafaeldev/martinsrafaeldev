@@ -6,7 +6,7 @@
 
 
 - 💻 Recentemente aprendendo tecnologias back-end para futuro desenvolvedor full-stack
-- 🏫 Pretendo cursar ADS (Ánalise e Desenvolvimento de Sistemas) [**UNIP**](https://www.unip.br).
+- 🏫 Pretendo cursar ADS (Ánalise e Desenvolvimento de Sistemas)
 - 💡 Minhas linguagens preferidas são: [**.NET**](https://.NET.org), [**C#**](https://www.C#.org/docs/), e [**JS**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript).
 - 😄 Pronomes: `Devops`
 
