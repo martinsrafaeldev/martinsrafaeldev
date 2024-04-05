@@ -37,6 +37,22 @@
   <img width="10" />
 </p>
 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/martinsrafaeldev/martinsrafaeldev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/martinsrafaeldev/martinsrafaeldev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/martinsrafaeldev/martinsrafaeldev/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
+
+
+
+
+
+
+
 ## Status
 <div align="center">
 <img alt="github stats" width="49%" height="150px" src="https://github-readme-stats.vercel.app/api?username=martinsrafaeldev&show_icons=true&theme=tokyonight&hide=stars">
