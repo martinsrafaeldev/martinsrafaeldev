@@ -12,8 +12,6 @@
 
 
 
-
-
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelmartinsdeveloper/)
 
@@ -53,6 +51,4 @@
 <br><br>
 
 
-
-
-
+<a href="https://app.rocketseat.com.br/me/rafael-martins-08485"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=rafael-martins-08485&type=card" width="280" alt="Rafael Martins's Rocket ID"/></a>
